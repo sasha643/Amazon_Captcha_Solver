@@ -6,7 +6,7 @@ This Python script is designed to perform web scraping on Amazon's search page. 
 
 ## Prerequisites
 
-- Python 3.x
+- <u>Python 3.x</u>
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - [Selenium](https://www.selenium.dev/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
