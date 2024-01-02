@@ -1,4 +1,4 @@
-#Amazon Web Scraping with CAPTCHA Solver
+#Amazon Web Scraping with CAPTCHA Solver#
 ##Overview
 This Python script is designed to perform web scraping on Amazon's search page. It incorporates the easyocr library for optical character recognition (OCR) to overcome CAPTCHAs encountered during the process.
 
