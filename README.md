@@ -33,13 +33,13 @@ This Python script is designed to perform web scraping on Amazon's search page. 
 4. **Navigate to the project directory:**
 
     ```bash
-    cd amazon-web-scraping
+    cd Amazon_Captcha_Solver
     ```
 
 5. **Run the script:**
 
     ```bash
-    python amazon_scraper.py
+    python main.py
     ```
 
 ## Configuration
